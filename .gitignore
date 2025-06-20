@@ -46,4 +46,5 @@ app.*.map.json
 
 #env
 .env
-!/lib/features/booking/presentation/pages/map_page.dart
+firebase.json
+devtools_options.yaml
