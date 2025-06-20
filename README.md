@@ -361,6 +361,7 @@ Ensure your emulator or device is running, then execute:
 ```bash
 flutter run
 ```
+---
 
 ## Demo
 
