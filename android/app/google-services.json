@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744346436626",
+    "project_id": "ridehail-5e9ca",
+    "storage_bucket": "ridehail-5e9ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744346436626:android:fee6318c088a3087a544cb",
+        "android_client_info": {
+          "package_name": "com.example.ride_hail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC43Gn-daoBd9t_o-GpsESukBrpi7_dlqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

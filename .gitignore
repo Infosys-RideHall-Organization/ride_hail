@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+#env
+.env
+!/lib/features/booking/presentation/pages/map_page.dart
